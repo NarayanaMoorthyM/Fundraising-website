@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -8,8 +8,8 @@
     display: flex;
 }
 
-main {
-    /* width: 100%; */
+.main {
+
     margin-top: 0px;
 }
 
@@ -20,8 +20,8 @@ main {
     width: 200px;
     transition: all 0.5s;
     position: fixed;
-    left: 0; /* Stick to the left */
-    z-index: 1000; /* Set a high z-index to overlap everything */
+    left: 0; 
+    z-index: 1000;
     margin-top: -40px;
 }
 
