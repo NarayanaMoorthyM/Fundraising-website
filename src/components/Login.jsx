@@ -99,7 +99,7 @@ function Login() {
               </div>
               <div className="forgot">
                 <small>
-                  <a href="#">Forgot Password?</a>
+{/*                   <a href="#">Forgot Password?</a> */}
                 </small>
               </div>
             </div>
