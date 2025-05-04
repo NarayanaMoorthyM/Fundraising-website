@@ -4,10 +4,10 @@ import Button from '@mui/joy/Button';
 import Card from '@mui/joy/Card';
 import CardContent from '@mui/joy/CardContent';
 import CardOverflow from '@mui/joy/CardOverflow';
-import Chip from '@mui/joy/Chip';
-import Link from '@mui/joy/Link';
+// import Chip from '@mui/joy/Chip';
+// import Link from '@mui/joy/Link';
 import Typography from '@mui/joy/Typography';
-import ArrowOutwardIcon from '@mui/icons-material/ArrowOutward';
+// import ArrowOutwardIcon from '@mui/icons-material/ArrowOutward';
 import ShareIcon from '@mui/icons-material/Share';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 
