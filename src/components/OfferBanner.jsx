@@ -2,7 +2,7 @@ import React from 'react';
 import Paper from '@mui/material/Paper';
 import Button from '@mui/material/Button';
 import { useTheme } from '@mui/material/styles';
-import zIndex from '@mui/material/styles/zIndex';
+// import zIndex from '@mui/material/styles/zIndex';
 
 const OfferBanner = () => {
   const theme = useTheme();
